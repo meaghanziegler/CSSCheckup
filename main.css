@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 30px
+}
+
+.index{
+    border: 15px solid black;
+        margin: 2px 2px 2px 2px;
+    padding: 10px 10px 10px 10px;
+}
+
+#this-is-an-id{
+    height: 30px;
+    background: lightslategray;
+        border: 5px solid red;
+        margin: 5px 5px 5px 5px;
+}
